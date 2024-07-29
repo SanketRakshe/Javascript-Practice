@@ -1,1 +1,1 @@
-newl
+console.log(data);
