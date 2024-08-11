@@ -13,7 +13,7 @@
 // main();
 
 
-//Promice Syntax
+//Promice Syntax,
 
 // function sanketsPromiseFunction() {
 //     const p = new Promise(function(resolve) {
